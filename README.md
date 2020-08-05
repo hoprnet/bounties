@@ -1,2 +1,2 @@
-# bounties
-Repository for all HOPR Network related Bounties
+# Activities
+Repository for all HOPR Network related activities, from bounties, games to experiments.
